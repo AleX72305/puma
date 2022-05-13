@@ -1,0 +1,15 @@
+$transition: all 300ms ease;
+
+body {
+	@include Poppins();
+	color: #1A0A03;
+	a {
+		color: #1A0A03;
+	}
+}
+
+.wrapper {
+	max-width: 1140px;
+	margin: 0 auto;
+}
+

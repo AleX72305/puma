@@ -1,0 +1,13 @@
+// Общие файлы
+@import './part/slick-theme.scss';
+@import './part/slick.scss';
+
+@import './general/fonts';
+@import './general/reset';
+@import './general/general';
+
+// Куски кода
+@import './general/button';
+
+// Страницы сайта
+@import './page/home';

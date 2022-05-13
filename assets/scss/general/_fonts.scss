@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&family=Source+Serif+Pro:wght@600&display=swap');
+
+@mixin SourceCodePro() {
+	font-family: "Source Code Pro", serif;
+}
+
+@mixin Poppins() {
+	font-family: "Poppins", sans-serif;
+}
